@@ -52,8 +52,7 @@ Action already setup In this template, you just need click `use this template` b
 
 ![](https://leetcard.jacoblin.cool/sandeepanand03?ext=heatmap)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandeep12ps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
